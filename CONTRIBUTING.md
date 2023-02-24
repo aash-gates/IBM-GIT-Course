@@ -1,4 +1,4 @@
-#Contribution Guidelines
+#Contribution Guidelines as per Victory Organization Guidelines
 
 We welcome contributions from everyone to our project! Here are some guidelines to help make the contribution process as smooth as possible:
 Reporting Bugs
